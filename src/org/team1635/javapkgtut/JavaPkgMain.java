@@ -1,4 +1,4 @@
-﻿package com.cntsoftware.opencv.my_maven_opencv;
+package com.cntsoftware.opencv.my_maven_opencv;
 
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
